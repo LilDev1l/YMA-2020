@@ -1,0 +1,16 @@
+main
+{
+	write "вывод всех нечетных чисел:";
+	int var i; i = b1010;
+	repeat(i < h64)
+	{
+		int var result;
+		result = i % 2;
+		if(result > 0)
+		then 
+		{
+			write i;
+		}
+		i = i + 1;
+	}
+}
