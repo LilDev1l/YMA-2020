@@ -1,0 +1,5 @@
+main 
+{
+	if ("test1" > "test2")
+	then{}
+}	

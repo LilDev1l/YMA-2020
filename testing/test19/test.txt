@@ -1,0 +1,4 @@
+main{
+	str var y;
+	y = "test2" + "test3";
+}

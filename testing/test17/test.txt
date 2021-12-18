@@ -1,0 +1,4 @@
+main{
+	int var x;
+	x = 1 + "test1";
+}

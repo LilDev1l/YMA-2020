@@ -1,0 +1,7 @@
+int function FindMax(int param x)
+{ return 1;}
+main 
+{
+	int var res;
+	res = FindMax(1, )
+}	

@@ -1,0 +1,5 @@
+main 
+{ 
+	int var test;
+	int var test;
+}
